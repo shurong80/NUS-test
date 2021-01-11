@@ -5,7 +5,9 @@ This is a test
 ## this text is smaller with 2 hash
 ### text with 3 hash (it should be the smallest)
 Go Lunch at 12pm.
-Here is a list we will do later
-*More git
-*cloud
 
+Here is a list we will do later:
+
+* More git
+* cloud
+* docker
