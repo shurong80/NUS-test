@@ -11,3 +11,5 @@ Here is a list we will do later:
 * More git
 * cloud
 * docker
+
+![](virtual.jpg)
