@@ -13,3 +13,7 @@ Here is a list we will do later:
 * docker
 
 ![](virtual.jpg)
+
+Adding another image with url
+
+![] (https://github.com/shurong80/NUS-test/blob/main/virtual.jpg)
